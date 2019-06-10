@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "B_Category"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "B_Category."
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                     this is B_Category
                    DESC
 
-  s.homepage     = "https://github.com/kyleboy/B_Category"
+  s.homepage     = "https://github.com/kymodular/B_Category"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/kyleboy/B_Category.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/kymodular/B_Category.git", :tag => s.version.to_s }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
